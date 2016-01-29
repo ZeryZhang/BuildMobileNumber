@@ -68,7 +68,7 @@ namespace BuildNumber
                     break;
                 case "8":
                     n = _8duan[random.Next(0, 6)];
-                    result = string.Format("1{0}{1}", number, n);
+                    result = string.Format("1{0}{1}", number, n);   
                     break;
             }
 
